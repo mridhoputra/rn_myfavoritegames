@@ -32,26 +32,27 @@ const App = () => {
 };
 
 const HomeScreen = ({navigation}) => {
-  const [game, setGame] = useState({});
+  const [gameDatas, setGameDatas] = useState([]);
 
   useEffect(() => {
     getData();
   }, []);
 
   const getData = () => {
-    Axios.get('http://10.0.2.2:3000/games').then((res) => {
+    Axios.get(
+      'https://my-json-server.typicode.com/mridhoputra/rn_myfavoritegames/games',
+    ).then((res) => {
       console.log('GET Response: ', res);
+      setGameDatas(res.data);
     });
   };
 
   return (
     <ScrollView>
       <Button title="About Me" onPress={() => navigation.navigate('Profile')} />
-      <Games />
-      <Games />
-      <Games />
-      <Games />
-      <Games />
+      {gameDatas.map((gameData) => {
+        return <Games key={gameData.id} game={gameData} />;
+      })}
     </ScrollView>
   );
 };
@@ -64,13 +65,14 @@ const ProfileScreen = () => {
   );
 };
 
-const Games = () => {
+const Games = ({game}) => {
+  console.log(`./assets/img/${game.photo}`);
   return (
     <View style={styles.game_container}>
-      <Image style={styles.game_img} />
+      <Image style={styles.game_img} source={require('./assets/img/p4.jpg')} />
       <View style={styles.game_detail_container}>
-        <Text style={styles.game_title}>Judul</Text>
-        <Text style={styles.game_properties}>First Impression</Text>
+        <Text style={styles.game_title}>{game.title}</Text>
+        <Text style={styles.game_properties}>{game.first_impression}</Text>
         <View style={styles.game_detail_table}>
           <View style={styles.game_table_1}>
             <Text style={styles.game_properties}>Played Since</Text>
@@ -83,9 +85,9 @@ const Games = () => {
             <Text>:</Text>
           </View>
           <View style={styles.game_table_3}>
-            <Text>Tahun</Text>
-            <Text>Platform</Text>
-            <Text>Genre</Text>
+            <Text>{game.played_since}</Text>
+            <Text>{game.platform}</Text>
+            <Text>{game.genres}</Text>
           </View>
         </View>
       </View>
