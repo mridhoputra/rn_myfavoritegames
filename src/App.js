@@ -66,10 +66,11 @@ const ProfileScreen = () => {
 };
 
 const Games = ({game}) => {
-  console.log(`./assets/img/${game.photo}`);
+  let img_name = game.photo;
+  console.log(typeof img_name);
   return (
     <View style={styles.game_container}>
-      <Image style={styles.game_img} source={require('./assets/img/p4.jpg')} />
+      <Image style={styles.game_img} source={require('./assets/img/p5.jpg')} />
       <View style={styles.game_detail_container}>
         <Text style={styles.game_title}>{game.title}</Text>
         <Text style={styles.game_properties}>{game.first_impression}</Text>
