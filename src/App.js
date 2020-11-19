@@ -100,7 +100,8 @@ const styles = StyleSheet.create({
     borderColor: 'gray',
     borderRadius: 5,
     marginHorizontal: 8,
-    marginTop: 8,
+    marginTop: 4,
+    marginBottom: 4,
     padding: 8,
     flexDirection: 'row',
   },
@@ -111,7 +112,7 @@ const styles = StyleSheet.create({
   },
   game_detail_container: {
     marginLeft: 8,
-    width: '100%',
+    flex: 1,
   },
   game_title: {
     fontWeight: 'bold',
@@ -121,13 +122,13 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
   },
   game_table_1: {
-    flex: 0.25,
+    flex: 0.35,
   },
   game_table_2: {
     flex: 0.025,
   },
   game_table_3: {
-    flex: 0.3,
+    flex: 0.6475,
   },
   game_properties: {
     color: 'gray',
