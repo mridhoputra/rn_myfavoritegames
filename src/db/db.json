@@ -1,0 +1,139 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Space Impact",
+      "photo": "space_impact.jpg",
+      "first_impression": "Who don't know this legendary game?",
+      "platform": "Nokia",
+      "played_since": "2002",
+      "genres": "Shoot 'em up"
+    },
+    {
+      "id": 2,
+      "title": "World Championship Snooker 2003",
+      "photo": "wcs_2003.jpg",
+      "first_impression": "My first PS2 game, very needed to kill time back then",
+      "platform": "PS2",
+      "played_since": "2007",
+      "genres": "Sports Game"
+    },
+    {
+      "id": 3,
+      "title": "Crash Tag Team Racing",
+      "photo": "ctr.jpg",
+      "first_impression": "Press rectangle or square in loading screen",
+      "platform": "PS2",
+      "played_since": "2008",
+      "genres": "Racing\nOpen World\nPlatform Game"
+    },
+    {
+      "id": 4,
+      "title": "Samurai Warriors 2",
+      "photo": "sw2.jpg",
+      "first_impression": "Japanese hack and slash game that makes me interested on learning Japan's History",
+      "platform": "PS2",
+      "played_since": "2008",
+      "genres": "Hack and Slash"
+    },
+    {
+      "id": 5,
+      "title": "Midnight Club 3: DUB Edition Remix",
+      "photo": "midnight_club_3_dub_edition_remix.jpg",
+      "first_impression": "Interesting racing game with branded cars with powerful special ability",
+      "platform": "PS2",
+      "played_since": "2008",
+      "genres": "Racing\nOpen World"
+    },
+    {
+      "id": 6,
+      "title": "Ninja Saga",
+      "photo": "ninja_saga.jpg",
+      "first_impression": "This game enhanced my social skills to a whole new level",
+      "platform": "PC",
+      "played_since": "2009",
+      "genres": "Role-playing Game"
+    },
+    {
+      "id": 7,
+      "title": "MX Unleashed",
+      "photo": "mx_unleashed.jpg",
+      "first_impression": "A very good off-road racing game with unique vehicles and memorable soundtracks",
+      "platform": "PS2",
+      "played_since": "2010",
+      "genres": "Racing\nOpen World"
+    },
+    {
+      "id": 8,
+      "title": "Dynasty Warriors: Gundam 2",
+      "photo": "dw_gundam_2.jpg",
+      "first_impression": "Gundam Multiverse in a single game",
+      "platform": "PS2",
+      "played_since": "2011",
+      "genres": "Hack and Slash"
+    },
+    {
+      "id": 9,
+      "title": "Persona 4",
+      "photo": "p4.jpg",
+      "first_impression": "Memories of this game will remain in my heart, forever",
+      "platform": "PS2",
+      "played_since": "2011",
+      "genres": "Japanese Role-playing Game\nSocial Simulation Game"
+    },
+    {
+      "id": 10,
+      "title": "Persona 3 FES",
+      "photo": "p3_fes.jpg",
+      "first_impression": "One More!",
+      "platform": "PS2",
+      "played_since": "2012",
+      "genres": "Japanese Role-playing Game\nSocial Simulation Game"
+    },
+    {
+      "id": 11,
+      "title": "Digimon Masters Online",
+      "photo": "dmo.jpg",
+      "first_impression": "Pay-to-win, but totally worth it",
+      "platform": "PC",
+      "played_since": "2012",
+      "genres": "Massively Multiplayer Online\nRole-playing Game"
+    },
+    {
+      "id": 12,
+      "title": "Dota 2",
+      "photo": "dota2.jpg",
+      "first_impression": "ako mid or feed.",
+      "platform": "PC",
+      "played_since": "2016",
+      "genres": "Multiplayer Online Battle Arena"
+    },
+    {
+      "id": 13,
+      "title": "Sid Meier's Civilization VI",
+      "photo": "civ_6.jpg",
+      "first_impression": "Can you build a civilization, that can stand the test of time?",
+      "platform": "PC",
+      "played_since": "2017",
+      "genres": "Turn-based Strategy"
+    },
+    {
+      "id": 14,
+      "title": "Persona 5",
+      "photo": "",
+      "first_impression": "The next level of persona franchise!",
+      "platform": "PS3",
+      "played_since": "2020",
+      "genres": "Japanese Role-playing Game\nSocial Simulation Game"
+    },
+    {
+      "id": 15,
+      "title": "Genshin Impact",
+      "photo": "",
+      "first_impression": "The hype of this game pull myself up",
+      "platform": "Multi-Platform (PC and Android)",
+      "played_since": "2020",
+      "genres": "MMORPG"
+    }
+  ]
+}
