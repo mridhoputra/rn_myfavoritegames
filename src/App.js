@@ -66,11 +66,9 @@ const ProfileScreen = () => {
 };
 
 const Games = ({game}) => {
-  let img_name = game.photo;
-  console.log(img_name);
   return (
     <View style={styles.game_container}>
-      <Image style={styles.game_img} source={require(game.photo)} />
+      <Image style={styles.game_img} source={{uri: `${game.photo}`}} />
       <View style={styles.game_detail_container}>
         <Text style={styles.game_title}>{game.title}</Text>
         <Text style={styles.game_properties}>{game.first_impression}</Text>
