@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Space Impact",
-      "photo": "require('./assets/img/space_impact.jpg')",
+      "photo": "./assets/img/space_impact.jpg",
       "first_impression": "Who don't know this legendary game?",
       "platform": "Nokia",
       "played_since": "2002",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "title": "World Championship Snooker 2003",
-      "photo": "require('./assets/img/wcs_2003.jpg')",
+      "photo": "./assets/img/wcs_2003.jpg",
       "first_impression": "My first PS2 game, very needed to kill time back then",
       "platform": "PS2",
       "played_since": "2007",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "title": "Crash Tag Team Racing",
-      "photo": "require('./assets/img/ctr.jpg')",
+      "photo": "./assets/img/ctr.jpg",
       "first_impression": "Press rectangle or square in loading screen",
       "platform": "PS2",
       "played_since": "2008",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "title": "Samurai Warriors 2",
-      "photo": "require('./assets/img/sw2.jpg')",
+      "photo": "./assets/img/sw2.jpg",
       "first_impression": "Japanese hack and slash game that makes me interested on learning Japan's History",
       "platform": "PS2",
       "played_since": "2008",
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "title": "Midnight Club 3: DUB Edition Remix",
-      "photo": "require('./assets/img/midnight_club_3_dub_edition_remix.jpg')",
+      "photo": "./assets/img/midnight_club_3_dub_edition_remix.jpg",
       "first_impression": "Interesting racing game with branded cars with powerful special ability",
       "platform": "PS2",
       "played_since": "2008",
@@ -48,7 +48,7 @@
     {
       "id": 6,
       "title": "Ninja Saga",
-      "photo": "require('./assets/img/ninja_saga.jpg')",
+      "photo": "./assets/img/ninja_saga.jpg",
       "first_impression": "This game enhanced my social skills to a whole new level",
       "platform": "PC",
       "played_since": "2009",
@@ -57,7 +57,7 @@
     {
       "id": 7,
       "title": "MX Unleashed",
-      "photo": "require('./assets/img/mx_unleashed.jpg')",
+      "photo": "./assets/img/mx_unleashed.jpg",
       "first_impression": "A very good off-road racing game with unique vehicles and memorable soundtracks",
       "platform": "PS2",
       "played_since": "2010",
@@ -66,7 +66,7 @@
     {
       "id": 8,
       "title": "Dynasty Warriors: Gundam 2",
-      "photo": "require('./assets/img/dw_gundam_2.jpg')",
+      "photo": "./assets/img/dw_gundam_2.jpg",
       "first_impression": "Gundam Multiverse in a single game",
       "platform": "PS2",
       "played_since": "2011",
@@ -75,7 +75,7 @@
     {
       "id": 9,
       "title": "Persona 4",
-      "photo": "require('./assets/img/p4.jpg')",
+      "photo": "./assets/img/p4.jpg",
       "first_impression": "Memories of this game will remain in my heart, forever",
       "platform": "PS2",
       "played_since": "2011",
@@ -84,7 +84,7 @@
     {
       "id": 10,
       "title": "Persona 3 FES",
-      "photo": "require('./assets/img/p3_fes.jpg')",
+      "photo": "./assets/img/p3_fes.jpg",
       "first_impression": "One More!",
       "platform": "PS2",
       "played_since": "2012",
@@ -93,7 +93,7 @@
     {
       "id": 11,
       "title": "Digimon Masters Online",
-      "photo": "require('./assets/img/dmo.jpg')",
+      "photo": "./assets/img/dmo.jpg",
       "first_impression": "Pay-to-win, but totally worth it",
       "platform": "PC",
       "played_since": "2012",
@@ -102,7 +102,7 @@
     {
       "id": 12,
       "title": "Dota 2",
-      "photo": "require('./assets/img/dota2.jpg')",
+      "photo": "./assets/img/dota2.jpg",
       "first_impression": "ako mid or feed.",
       "platform": "PC",
       "played_since": "2016",
@@ -111,7 +111,7 @@
     {
       "id": 13,
       "title": "Sid Meier's Civilization VI",
-      "photo": "require('./assets/img/civ_6.jpg')",
+      "photo": "./assets/img/civ_6.jpg",
       "first_impression": "Can you build a civilization, that can stand the test of time?",
       "platform": "PC",
       "played_since": "2017",
@@ -120,7 +120,7 @@
     {
       "id": 14,
       "title": "Persona 5",
-      "photo": "require('./assets/img/p5.jpg')",
+      "photo": "./assets/img/p5.jpg",
       "first_impression": "The next level of persona franchise!",
       "platform": "PS3",
       "played_since": "2020",
@@ -129,7 +129,7 @@
     {
       "id": 15,
       "title": "Genshin Impact",
-      "photo": "require('./assets/img/genshin_impact.jpg')",
+      "photo": "./assets/img/genshin_impact.jpg",
       "first_impression": "The hype of this game pull myself up",
       "platform": "Multi-Platform (PC and Android)",
       "played_since": "2020",
