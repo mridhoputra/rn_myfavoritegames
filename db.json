@@ -1,7 +1,7 @@
 {
   "games": [
     {
-      "id": 0,
+      "id": 1,
       "title": "Space Impact",
       "photo": "https://i.ibb.co/h73KDyc/space-impact.jpg",
       "first_impression": "Who don't know this legendary game?",
@@ -14,11 +14,10 @@
       "developers": "Nokia",
       "available_platforms": "Mobile phone\nJ2ME, Symbian S60\nN-Gage Classic/QD\nN-Gage 2.0",
       "release_date": "September 1, 2000",
-      "description": "Space Impact is a mobile game series that was published by Nokia and its games usually came bundled with several Nokia devices.\nSpace Impact is a shoot 'em up game and the player has the ability to freely move horizontally and vertically (with a few exceptions on some platform-like levels in Space Impact+) but cannot increase the speed of the screen's auto-scrolling feature. The player can collect power-ups throughout the levels, which award extra lives or special weapons.",
       "screenshot": "https://i.ibb.co/7R8RB90/ss-1-space-impact.jpg"
     },
     {
-      "id": 1,
+      "id": 2,
       "title": "World Championship Snooker 2003",
       "photo": "https://i.ibb.co/Fx2CqZq/wcs-2003.jpg",
       "first_impression": "My first PS2 game, very needed to kill time back then",
@@ -31,11 +30,10 @@
       "developers": "Blade Interactive",
       "available_platforms": "PlayStation 2\nXbox\nMicrosoft Windows",
       "release_date": "June 27, 2003",
-      "description": "World Championship Snooker 2003 is a sports video game developed by Blade Interactive and published by Codemasters for PlayStation 2, Xbox and Microsoft Windows.\nIn comparison to earlier titles, the game was not only Snooker specific, and allowed players to eight-ball and nine-ball pool, and a number of minigames including trick shot, in my pocket, and against the clock.\nThe game was also released with a version specifically designed to play in English pubs and bars. The game involved commentary from both Dennis Taylor and for the first time, John Virgo. John Virgo also lends his name to the unlockable trick shot mode, similar to the one displayed on Big Break.",
       "screenshot": "https://i.ibb.co/F4JDbK6/ss-2-wcs2003.jpg"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Crash Tag Team Racing",
       "photo": "https://i.ibb.co/f9XyVQZ/ctr.png",
       "first_impression": "Press rectangle or square in loading screen",
@@ -48,11 +46,10 @@
       "developers": "Radical Entertainment",
       "available_platforms": "GameCube\nPlayStation 2\nPlayStation Portable\nXbox",
       "release_date": "October 19, 2005",
-      "description": "Crash Tag Team Racing is a racing video game developed by Vancouver-based Radical Entertainment and published by Vivendi Universal Games.\nThe player takes control of Crash Bandicoot, who must retrieve the Black Power Gem of Ebenezer Von Clutch, along with the missing Power Gems in each of the five themed areas of the park. The player will compete in races and minigames to earn Wumpa Coins, the park's currency, and Power Crystals, find the Power Gem needed to open up the five areas of the park, and ultimately unveil the mystery of the Power Gem thief's identity.",
       "screenshot": "https://i.ibb.co/xLHM0wP/ss-3-ctr.jpg"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Samurai Warriors 2",
       "photo": "https://i.ibb.co/Lpk2RxZ/sw2.jpg",
       "first_impression": "Japanese hack and slash game that makes me interested on learning Japan's History",
@@ -65,11 +62,10 @@
       "developers": "Omega Force",
       "available_platforms": "PlayStation 2\nXbox 360",
       "release_date": "August 23, 2007",
-      "description": "Samurai Warriors 2 is a game based on the Sengoku (Warring States) Era of Japan.  While the first Samurai Warriors focused on Nobunaga Oda and earlier battles of this era, Samurai Warriors 2 focuses on battles later on in this era.  The main focus of this game is the Battle of Sekigahara, which was the battle that gave the Tokugawa Army the momentum to be the eventual winners of this era. \nSamurai Warriors 2 is a hack and slash game.  You can choose from one of 26 different characters, each with their own weapon, moves, and personalities.  You help guide that character throughout many of the historic battles of Japan.",
       "screenshot": "https://i.ibb.co/s1H2wqM/ss-4-sw2.jpg"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Midnight Club 3: DUB Edition Remix",
       "photo": "https://i.ibb.co/DpX2B3z/midnight-club-3-dub-edition-remix.jpg",
       "first_impression": "Interesting racing game with branded cars with powerful special ability",
@@ -82,11 +78,10 @@
       "developers": "Rockstar San Diego",
       "available_platforms": "PlayStation 2\nXbox",
       "release_date": "March 13, 2006",
-      "description": "Midnight Club 3: Dub Edition is a racing game developed by Rockstar San Diego and published by Rockstar Games. It is the third installment in the Midnight Club series. Like previous installments in the series, the game is an arcade-style racer and focuses on wild, high-speed racing, rather than realistic physics and driving. The name is derived from a partnership between Rockstar and DUB Magazine, which features heavily in the game in the form of DUB-sponsored races and DUB-customized vehicles as prizes.\nPlayers race through open world recreations of San Diego, Atlanta and Detroit listening to 98 (124 in the Remix version) licensed music tracks that include hip-hop, rock, and more. The game features a number of graphical views after the player crashes into certain objects, or travels across particular stretches of road. There is also the ability to customize a player's vehicle. Other than modifying the external looks, the vehicle's performance can also be improved (with the exception of all 'A' Class vehicles except motorcycles). Midnight Club 3: Dub Edition is the first game in the series to feature licensed vehicles.",
       "screenshot": "https://i.ibb.co/f2bry4h/ss-5-mc3.jpg"
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Ninja Saga",
       "photo": "https://i.ibb.co/b2x5gz4/ninja-saga.jpg",
       "first_impression": "This game enhanced my social skills to a whole new level",
@@ -99,11 +94,10 @@
       "developers": "Emagist Entertainment Limited",
       "available_platforms": "Facebook, with Adobe Flash Player\nAndroid\niOS",
       "release_date": "July 21, 2009",
-      "description": "Ninja Saga is a social ninja game, in which players create their own ninja who lives in a warrior community and fights enemies controlled by artificial intelligence or other players.\nAt the beginning of the game, players choose a name for their character, and its appearance from among 5 options. You also have to choose your two main magic skills that will allow you to cast magic spells.\nOnce you have chosen your character, you can start enjoying everything that Ninja Saga has to offer. You can train against other players, participate in missions in order to win money and experience, upgrade your character's abilities, or even get pets that will help you in different ways.\nNinja Saga's battles are taken in turns. As a result, players have time to chose what type of attack they want for each assault by choosing between different defenses, attacks or magic spells.\nNinja Saga is a social game with RPG components, in which players can enjoy an experience very similar to the one from the Naruto universe. Pretty much all of the game's concepts are directly inspired by the popular anime.",
       "screenshot": "https://i.ibb.co/GvjWRpK/ss-6-ns.jpg"
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "MX Unleashed",
       "photo": "https://i.ibb.co/qFBSjbQ/mx-unleashed.jpg",
       "first_impression": "A very good off-road racing game with unique vehicles and memorable soundtracks",
@@ -116,11 +110,10 @@
       "developers": "Rainbow Studios",
       "available_platforms": "PlayStation 2\nXbox",
       "release_date": "February 17, 2004",
-      "description": "The newest installment of the MX series gives off-road racers more freedom than ever before. Challenge yourself in the freeworld mode - an off-road playground filled with treacherous terrain, minigames and machine races. Work your way up the ranks racing against the top champions in the world on over 40 tracks in 14 separate leagues. Face off against friends in both racing and freestyle modes. Prepare yourself for mud, dirt, high speeds and a serious attitude. If you want more intense action, battle it out with a monster truck, helicopter, or bi-plane!",
       "screenshot": "https://i.ibb.co/hdPZSHv/ss-7-mx.jpg"
     },
     {
-      "id": 7,
+      "id": 8,
       "title": "Dynasty Warriors: Gundam 2",
       "photo": "https://i.ibb.co/6YCRr2y/dw-gundam-2.png",
       "first_impression": "Gundam Multiverse in a single game",
@@ -133,11 +126,10 @@
       "developers": "Omega Force",
       "available_platforms": "PlayStation 2\nPlayStation 3\nXbox 360",
       "release_date": "December 18, 2008",
-      "description": "In the future, rebel space colonies launch a brutal war of independence with a series of coordinated orbital strikes against Earth. The chaotic assault signals the dawn of a new age of combat and the ultimate instrument of warfare is born, the Mobile Suit. Dynasty Warriors: Gundam 2 combines the devastating power of the Mobile Suit, the rich legacy of the Gundam universe and the furious Tactical Action game play of the Dynasty Warriors series. The game thrusts players into incredible battles against legions of enemy Mobile Suits on distant planetary surfaces and in the far reaches of outer space.\nFor the first time, Dynasty Warriors: Gundam 2 lets players engage in melee battles against colossal enemies such as the Psycho Gundam. The massive Psycho Gundam can quickly reconfigure their bodies into titanic mobile fortresses which can move with remarkable speed. However, highly-trained pilots can utilize their own Mobile Suit's speed, agility, and of course firepower to defeat these deadly juggernauts. Dynasty Warriors: Gundam 2 also includes new stories featuring mecha from the latest Gundam anime, plus mecha from Char's Counter Attack and more. With mecha parts collected throughout the course of the game, players can adapt a Mobile Suit which can be piloted into combat.",
       "screenshot": "https://i.ibb.co/17B4mQz/ss-8-dw2.jpg"
     },
     {
-      "id": 8,
+      "id": 9,
       "title": "Persona 4",
       "photo": "https://i.ibb.co/BNK8GDm/p4.jpg",
       "first_impression": "Memories of this game will remain in my heart, forever",
@@ -150,11 +142,10 @@
       "developers": "Atlus",
       "available_platforms": "PlayStation 2\nPlayStation Vita",
       "release_date": "July 10, 2008",
-      "description": "Persona 4 blends traditional RPG gameplay with simulation elements. The player controls the game's protagonist, a teenage boy who is named by the player, who comes to the town of Inaba for a year.\nThe player-named protagonist is a high-school student who moved into the countryside from the city for a year. During his year-long stay, he becomes involved in investigating mysterious murders while harnessing the power of summoning Persona.\nGameplay is divided between the real world of Inaba, where the protagonist carries out his daily life, and the mysterious \"TV World\", where various dungeons filled with monsters known as Shadows await. With the exception of scripted events, such as plot progression or special events, players can choose to spend their day how they like, be it participating in various real world activities, such as joining school clubs, taking part-time jobs, or reading books, or exploring the TV World's dungeons to gain experience and items.\nFurthermore, some activities and dialogue choices may be limited by the protagonist's five attributes; Understanding, Diligence, Courage, Knowledge, and Expression, which can be increased by performing certain activities that build them.\nWhilst the player is free to choose how to spend their time, if they fail to rescue someone who is trapped in the TV World by the time fog appears in town, which takes place after several days of consecutive rain, that person will get killed by the shadows and the game will end, forcing the player to return to a week prior.\nAs the game progresses, the protagonist forms friendships with other characters known as \"Social Links\", which are each represented by one of the Major Arcana. As these bonds strengthen, the Social Links increase in Rank, which grant bonuses when creating new Personas in the Velvet Room. Additionally, strengthening Social Links with the main party members grant them additional abilities, such as the ability to perform a follow-up attack or an additional ability for their Persona.",
       "screenshot": "https://i.ibb.co/PwN2VgZ/ss-9-p4.png"
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "Persona 3 FES",
       "photo": "https://i.ibb.co/DrNx2kY/p3-fes.jpg",
       "first_impression": "One More!",
@@ -167,11 +158,10 @@
       "developers": "Atlus",
       "available_platforms": "PlayStation 2\nPlayStation Portable",
       "release_date": "April 19, 2007",
-      "description": "In Persona 3, the player takes the role of a male high-school student who joins the Specialized Extracurricular Execution Squad (SEES), a group of students investigating the Dark Hour, a time period between one day and the next that few people are aware of. During the Dark Hour, the player enters Tartarus, a large tower containing Shadows, creatures that feed on the minds of humans. To fight the Shadows, each member of SEES is able to summon a Persona, a manifestation of a person's inner self.\nThe game's most iconic feature is the method by which the members of SEES release their Personas: by firing a gun-like object called an Evoker at their head.\nIn addition to the standard elements of role-playing games, Persona 3 includes elements of simulation games, as the game's protagonist progresses day by day through a school year, making friends and forming relationships that improve the strength of his Personas in battle.\nPersona 3 combines elements of traditional role-playing games and simulation games. The game follows the protagonist character, balancing their daily life of going to school and building relationships with other people with fighting evil beings known as Shadows during the mysterious Dark Hour.\nEach day is divided up between various time zones, the most common of which are \"After School/Daytime\" and \"Evening\". With the exception of scripted events, such as plot progression or special events, the player is free to choose how each day is spent, with most activities causing time to pass on.\nThe types of activities and characters that can be interacted with vary depending on the day of the week and time of day. Additionally, some activities are limited by the protagonist's three attributes; Academics, Charm, and Courage, which can be built by performing various activities or making certain correct choices.\nDuring the evening, players can choose to visit Tartarus, the game's main dungeon, where they can build their party's experience and gain new items. On the day of the full moon, players will participate in a boss battle in order to progress the story.",
       "screenshot": "https://i.ibb.co/zfPfdds/ss-10-p3.jpg"
     },
     {
-      "id": 10,
+      "id": 11,
       "title": "Digimon Masters Online",
       "photo": "https://i.ibb.co/y0Hd5DL/dmo.jpg",
       "first_impression": "Pay-to-win, but totally worth it",
@@ -184,11 +174,10 @@
       "developers": "MoveGames",
       "available_platforms": "Windows",
       "release_date": "October 30, 2009",
-      "description": "Digimon Masters is a free-to-play MICROTRANSACTION supported massively multiplayer online role-playing game in a setting based on that of the Digimon media franchise, specifically the universe and characters of the fifth anime series, Digimon Data Squad (though many aspects of Digimon Adventure, Digimon Adventure 02, Digimon Tamers, Digimon Frontier and Digimon Fusion are incorporated).\nPlayers control an avatar of one of the four main Tamers of Digimon Data Squad: Marcus Damon, Thomas H. Norstein, Yoshino Fujieda, and Keenan Crier. The avatar is not meant to represent the actual Tamer, and thus players can choose their own name and modify the appearance of the Avatar. After selecting a Tamer, players are then able to select a Partner Digimon. The Partner Digimon will be used in battle to accomplish NPC-given missions. The player may also hatch new Mercenary Digimon from Digitama dropped by enemy Digimon. Over the course of the game, Partner and Mercenary Digimon will Digivolve into stronger forms (some of which may require special items or quests to unlock) and learn new skills.",
       "screenshot": "https://i.ibb.co/gTxjTtR/ss-11-dmo.jpg"
     },
     {
-      "id": 11,
+      "id": 12,
       "title": "Dota 2",
       "photo": "https://i.ibb.co/bLZ13Qs/dota2.jpg",
       "first_impression": "ako mid or feed.",
@@ -201,11 +190,10 @@
       "developers": "Valve Corporation",
       "available_platforms": "Windows\nLinus, OS X",
       "release_date": "July 9, 2013",
-      "description": "Dota 2 is a multiplayer online battle arena (MOBA) video game in which two teams of five players compete to collectively destroy a large structure defended by the opposing team known as the \"Ancient\", whilst defending their own.\nAs in Defense of the Ancients, the game is controlled using standard real-time strategy controls, and is presented on a single map in a three-dimensional isometric perspective.\nTen players each control one of the game's 117 playable characters, known as \"heroes\", with each having their own design, strengths, and weaknesses.\nHeroes are divided into two primary roles, known as the core and support. Cores, which are also called \"carries\", begin each match as weak and vulnerable, but are able to become more powerful later in the game, thus becoming able to \"carry\" their team to victory. Supports generally lack abilities that deal heavy damage, instead having ones with more functionality and utility that provide assistance for their carries, such as providing healing and other buffs.\nPlayers select their hero during a pre-game drafting phase, where they can also discuss potential strategies and hero matchups with their teammates. Heroes are removed from the drafting pool and become unavailable for all other players once one is selected, and can not be changed once the drafting phase is over.",
       "screenshot": "https://i.ibb.co/qM0C1pC/ss-12-dota.jpg"
     },
     {
-      "id": 12,
+      "id": 13,
       "title": "Sid Meier's Civilization VI",
       "photo": "https://i.ibb.co/PmGF8qm/civ-6.jpg",
       "first_impression": "Can you build a civilization, that can stand the test of time?",
@@ -218,11 +206,10 @@
       "developers": "Firaxis Games",
       "available_platforms": "Microsoft Windows\nmacOS\nLinux\niOS\nNintendo Switch\nPlayStation 4\nXbox One",
       "release_date": "October 21, 2016",
-      "description": "Civilization VI is a turn-based strategy video game in which one or more players compete alongside computer-controlled AI opponents to grow their individual civilization from a small tribe to control of the entire planet across several periods of development. This can be accomplished by achieving one of several victory conditions, all based on the 4X gameplay elements, \"eXplore, eXpand, eXploit, and eXterminate\".\nPlayers found cities, gather nearby resources to build and expand them by adding various city improvements, and build military units to explore and attack opposing forces, while managing the technology development, culture, and government civics for their civilization and their diplomatic relationships with the other opponents.\nSimilarly to previous installments, the goal for the player is to develop a civilization from an early settlement through many millennia to become a world power and achieve one of several victory conditions, such as through military domination, technological superiority, or cultural influence, over the other human and computer-controlled opponents. Players do this by exploring the world, founding new cities, building city improvements, deploying military troops to attack and defend from others, researching new technologies and cultural civics, and engaging in trade and negotiations with other world leaders.",
       "screenshot": "https://i.ibb.co/XYHRWnW/ss-13-civ.jpg"
     },
     {
-      "id": 13,
+      "id": 14,
       "title": "Persona 5",
       "photo": "https://i.ibb.co/0rrm0Sz/p5.jpg",
       "first_impression": "The next level of persona franchise!",
@@ -235,11 +222,10 @@
       "developers": "P-Studio",
       "available_platforms": "PS3\nPS4",
       "release_date": "September 15, 2016",
-      "description": "Persona 5 takes place within the Persona universe, revolving around a group of high school students who harness Personas, physical manifestations of their inner psyche. Persona 5 is set in modern-day Tokyo, in April of the year "20XX" (2016), with navigable real-world locations within the city including Akihabara, Shinjuku and Shibuya. Alongside larger environments, there are specific locations that can be entered, such as shops, restaurants and movie theaters. A major setting throughout the game is Shujin Academy, a high school that the protagonist attends. The second major location is the "Metaverse", a supernatural realm consisting of the physical manifestation of humanity's subconscious desires. In the Metaverse, people with corrupted enough desires form their own unique "Palace", which is modeled after their distorted perception of the world, along with a Shadow version of themselves possessing a "Treasure" symbolic of their desires. Returning from earlier entries is the Velvet Room, a place that exists for the growth of Persona users that shifts appearance depending on the current guest: in Persona 5, it takes the form of a prison.\nThe player character is a silent protagonist, a commonplace feature in other Persona games, codenamed Joker. He becomes the leader of a vigilante group known as the Phantom Thieves of Hearts, who change the hearts of criminals and other malevolent people through the Metaverse. He forms it together with school delinquent Ryuji Sakamoto, fashion model Ann Takamaki and Morgana, a mysterious cat-like creature. More people join the group throughout the game, including art prodigy Yusuke Kitagawa, student council president Makoto Niijima, hikikomori computer hacker Futaba Sakura, and cultured corporate heiress Haru Okumura. Also interacting with Joker are Goro Akechi, a high school detective; Sae Niijima, public prosecutor and Makoto's older sister; and the residents of the Velvet Room, Igor and his two assistants Caroline and Justine. Joker also has interactions with other confidants, including his caretaker and Futaba's adoptive father Sojiro Sakura, classmate Yuuki Mishima, his teacher and part-time maid Sadayo Kawakami, arcade gamer Shinya Oda, journalist Ichiko Ohya, fortune teller Chihaya Mifune, shogi master Hifumi Togo, doctor Tae Takemi, politician Toranosuke Yoshida, and model gun store owner Munehisa Iwai.",
       "screenshot": "https://i.ibb.co/yS4FWvF/ss-14-p5.jpg"
     },
     {
-      "id": 14,
+      "id": 15,
       "title": "Genshin Impact",
       "photo": "https://i.ibb.co/J7chGRX/genshin-impact.jpg",
       "first_impression": "The hype of this game pull myself up",
@@ -252,7 +238,6 @@
       "developers": "miHoYo",
       "available_platforms": "PS4\nWindows\niOS\nAndroid",
       "release_date": "September 28, 2020",
-      "description": "Genshin Impact takes place in the world of Teyvat, which is composed of seven major nations, which are Mondstadt, Liyue, Inazuma, Sumeru, Fontaine, Natlan, and Snezhnaya, with each nation split into several regions. There is also Celestia, a mysterious floating island allegedly home to mortals who have ascended to godhood through great, heroic feats. Currently, players can visit only Mondstadt and Liyue. Mondstadt, known as the city of freedom, worships Barbatos, the Anemo Archon, and sits on an island in the middle of a lake. Mondstadt's region forms the northeastern half of the map, and in the southeastern half of the map lies the nation of Liyue, which worships the Geo Archon Rex Lapis and is the largest market harbor in Teyvat. The Electro Archon, Raiden Shogun Baal, rules Inazuma which lies across the sea from Liyue. Each nation takes inspiration from a real-world region, incorporating architecture, language, and music. Mondstadt has central European influences while Liyue has Chinese ones.\nEach nation is associated with and worships an Archon, of which there are seven. Each Archon is tied to one of the game's elements, reflected in their nation's aspect. Barbatos, Rex Lapis, and Tsaritsa are archons of Mondstadt, Liyue, and Snezhnaya, respectively. However, the god who is the Archon may change over time. An Archon's strength is tied to how firmly they control their region. Specific individuals chosen by the Archons are given a Vision — magical gemstones that give their bearers the ability to command an element. Vision wielders become an allogene, someone with the potential to ascend to godhood. In gameplay, each playable character (except the Traveler) is a Vision wielder.",
       "screenshot": "https://i.ibb.co/v4tk34v/ss-15-genshin-impact.jpg"
     }
   ]
