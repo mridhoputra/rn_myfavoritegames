@@ -1,9 +1,20 @@
 import React, {useEffect, useState} from 'react';
-import {StyleSheet, Text, View, Button} from 'react-native';
+import {StyleSheet, Text, View, Button, Image} from 'react-native';
 import {ScrollView, TouchableOpacity} from 'react-native-gesture-handler';
 import Axios from 'axios';
 import Games from '../Games';
+import icon_profile from '../../assets/icon/profile.png';
+
 const HomeScreen = ({navigation}) => {
+  React.useLayoutEffect(() => {
+    navigation.setOptions({
+      headerRight: () => (
+        <TouchableOpacity onPress={() => navigation.navigate('Profile')}>
+          <Image source={icon_profile} style={styles.icon} />
+        </TouchableOpacity>
+      ),
+    });
+  }, [navigation]);
   const [gameDatas, setGameDatas] = useState([]);
   useEffect(() => {
     getData();
@@ -20,16 +31,12 @@ const HomeScreen = ({navigation}) => {
 
   return (
     <ScrollView>
-      <Button
-        title="About Me"
-        onPress={() => navigation.navigate('GameDetail', {gameId: 1})}
-      />
       {gameDatas.map((gameData) => {
         return (
           <TouchableOpacity
             key={gameData.id}
             onPress={() =>
-              navigation.navigate('GameDetail', {gameId: gameData.id})
+              navigation.navigate('Game Detail', {gameId: gameData.id})
             }>
             <Games key={gameData.id} game={gameData} />
           </TouchableOpacity>
@@ -41,4 +48,10 @@ const HomeScreen = ({navigation}) => {
 
 export default HomeScreen;
 
-const styles = StyleSheet.create({});
+const styles = StyleSheet.create({
+  icon: {
+    width: 25,
+    height: 25,
+    marginRight: 14,
+  },
+});
